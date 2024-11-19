@@ -1,8 +1,8 @@
-# Crypto Transaction Analyzer 🔍
+# Crypto Transaction Analyzer 
 
 A Python-based tool for analyzing cryptocurrency transactions and detecting potentially suspicious patterns. 
 
-## 🚀 Features
+##  Features
 
 - Transaction pattern analysis across wallets
 - Risk indicator detection:
@@ -14,13 +14,13 @@ A Python-based tool for analyzing cryptocurrency transactions and detecting pote
 - Detailed report generation
 - Support for custom risk thresholds
 
-## 💻 Tech Stack
+##  Tech Stack
 
 - Python 3.8+
 - Pandas for data processing
 - JSON for data storage
 
-## 🛠️ Installation
+##  Installation
 
 1. Clone the repository:
 ```bash
@@ -33,7 +33,7 @@ cd crypto-transaction-analyzer
 pip install pandas
 ```
 
-## 📊 Usage
+##  Usage
 
 1. Prepare your transaction data in JSON format:
 ```json
@@ -59,7 +59,7 @@ report = analyzer.generate_report(analysis)
 print(report)
 ```
 
-## 📈 Example Output
+##  Example Output
 
 ```
 Wallet Analysis Report
@@ -81,7 +81,7 @@ Risk Indicators
 
 
 
-## 📝 License
+##  License
 
 MIT License - feel free to use and modify!
 
